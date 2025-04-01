@@ -17,8 +17,7 @@ This project provides a **Sales Insights Dashboard** using **Power BI**, where d
 - Removed null values and duplicates.  
 - Formatted date and currency fields.  
 - Transformed data for better analysis.  
-
-![Data Cleaning](https://github.com/yourusername/Sales_Insights_Data_Analysis/blob/main/images/data_cleaning.png)  
+ 
 
 ---
 
